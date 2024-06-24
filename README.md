@@ -1,2 +1,13 @@
-# mamammia
-link :https://github.com/lorelero/mammamia-desafio
+# React + Vite
+
+## Install
+
+```bash
+npm install
+```
+
+## Run
+
+```bash
+npm run dev
+```
