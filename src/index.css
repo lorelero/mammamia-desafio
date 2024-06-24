@@ -36,7 +36,7 @@ height: 100vh;
 
 .header {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../../public/assets/Header.jpg");
+    url("../public/assets/header.jpg");
   background-size: cover;
   height: 40vh;
 }
