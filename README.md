@@ -1,13 +1,4 @@
-# React + Vite
+# MammaMia- ReactII
 
-## Install
+## https://github.com/lorelero/mammamia-desafio)
 
-```bash
-npm install
-```
-
-## Run
-
-```bash
-npm run dev
-```
